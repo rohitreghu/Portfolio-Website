@@ -1,0 +1,131 @@
+/* Tag Identifier Styles */
+body {
+  font-family: "Source Code Pro", monospace;
+  text-align: center;
+  font-size: large;
+}
+
+.quotes {
+  font-family: "Caveat", cursive;
+  font-size: 200%;
+}
+
+footer {
+  background-color: #373a40;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* .navbar-expand-sm {
+    position: fixed;
+    top: 2%;
+    left: 90%;
+} */
+
+/* Class Identifier styles */
+.teal {
+  color: teal;
+}
+
+.navbar {
+  padding: 0 15%;
+  padding-top: 2%;
+  background-color: transparent;
+}
+
+.navbar-font {
+  font-weight: 950;
+}
+
+.container-fluid {
+  padding: 5% 20%;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.right-align {
+  text-align: right;
+}
+
+.padding-top {
+  padding-top: 5%;
+}
+
+.padding {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.padding-little {
+  padding: 2% 2% 2% 0;
+}
+
+.contact-link {
+  padding: 2%;
+}
+
+.hover-bg:hover {
+  background-color: lightgray;
+}
+
+.vertical-nav {
+  position: fixed;
+  left: 85%;
+  top: 15%;
+  background-color: black;
+  display: block;
+  padding: 13px;
+  text-decoration: none;
+}
+
+
+.menu-item {
+  text-decoration: none;
+  display: inline-block;
+  padding: 30% 0;
+  color: white;
+  font-weight: 800;
+}
+
+.menu-item:hover {
+    text-decoration: none;
+    color: teal;
+}
+
+#contact-link:hover {
+  text-decoration: underline;
+}
+
+/* ID Identifier Styles */
+#profile,
+#abilities {
+  background-color: #eeeded;
+}
+
+#experience,
+#projects {
+  background-color: #ffdd93;
+}
+
+#profile-heading {
+  padding-bottom: 5%;
+}
+
+#profile-content {
+  padding: 5% 0;
+}
+
+#contact {
+  color: white;
+  text-decoration: none;
+}
+
+#profile-img {
+  border-radius: 50%;
+  border: 10px solid #9ddfd3;
+  max-width: 300px;
+}
